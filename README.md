@@ -4,6 +4,8 @@ This repository hosts a comprehensive, containerized data engineering infrastruc
 
 ## Architecture Overview
 
+![Architecture Diagram](spark-delta-lakehouse.svg)
+
 The pipeline integrates the following core components:
 
 *   **Apache Spark**: A unified analytics engine for large-scale data processing.
